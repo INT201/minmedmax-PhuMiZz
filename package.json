@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "name": "example",
   "devDependencies": {
-    "@babel/core": "*",
+    "@babel/core": "^7.18.13",
     "@babel/preset-env": "*",
     "babel-jest": "*",
     "jest": "*"
